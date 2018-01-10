@@ -1,0 +1,65 @@
+body{
+  background-color:#d4e1ff;
+  margin-left: 180px;
+  margin-right: 180px;
+  background-image:url( 'http://i.sheyinghouqi.com/uploadfile/UploadPhotos/pic/2008/beijing/plyh/02.jpg' );
+  background-repeat:repeat-x repeat-y;
+  background-color: ##805300;
+}
+.title{
+  color: #ffffff;
+  margin-left:100px;
+ margin-top: 30px;
+ size:36px;
+ text-align: center;
+}
+.site-nav{
+    width: 100%;
+    height: 50px;
+    background-color: #a1bdff;
+    border-radius: 3px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px #a1bdff;
+}
+.site-nav li{
+  width: 15%;
+  text-align: center;
+  list-style: none;
+  float: left;
+  color: #00174b;
+  size:18px;
+  background-color:#a1bdff;
+  margin: 16px 30px;
+}
+a{
+  text-decoration: none;
+  text-align: center;
+}
+.container img{
+  float: left;
+  margin-right: 50px;
+ margin-bottom: 50px;
+}
+
+
+footer{
+  height: 70px;
+  width: 950px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  background-color: #a1bdff;
+  float: left;
+
+}
+.copyright{
+  float:left;
+  margin-left: 100px;
+  margin-top: 20px;
+  font-size:12px;
+}
+.icon{
+  size:32px;
+  float:right;
+  margin-top: 15px;
+  margin-right: 100px;
+}
