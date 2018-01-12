@@ -44,11 +44,12 @@ a{
 
 footer{
   height: 70px;
-  width: 950px;
+  width: 100%;
   padding-top: 10px;
   padding-bottom: 20px;
   background-color: #a1bdff;
   float: left;
+
 
 }
 .copyright{
